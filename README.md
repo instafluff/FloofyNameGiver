@@ -1,0 +1,2 @@
+# FloofyNameGenerator
+Fluffy Names Generator!
