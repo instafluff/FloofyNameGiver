@@ -1,0 +1,33 @@
+{
+  "name": "floofynamegiver",
+  "version": "1.0.0",
+  "description": "Fluffity Givens, a Fluffy Name Generator!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/FloofyNameGiver.git"
+  },
+  "keywords": [
+    "Instafluff",
+    "name",
+    "floof",
+    "booplesnoot",
+    "generator",
+    "fluffy"
+  ],
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/FloofyNameGiver/issues"
+  },
+  "homepage": "https://github.com/instafluff/FloofyNameGiver#readme",
+  "dependencies": {
+    "comfy.js": "^1.0.10",
+    "comfydiscord": "^1.0.4",
+    "dotenv": "^8.0.0",
+    "webwebweb": "^1.0.1"
+  }
+}
