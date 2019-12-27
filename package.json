@@ -28,6 +28,6 @@
     "comfy.js": "^1.0.10",
     "comfydiscord": "^1.0.4",
     "dotenv": "^8.0.0",
-    "webwebweb": "^1.0.1"
+    "webwebweb": "^1.1.3"
   }
 }
